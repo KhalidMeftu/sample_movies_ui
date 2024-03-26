@@ -1,6 +1,6 @@
 # avetol
 
-# Flutter Avetol demo app UI
+# Flutter Movies demo app UI
 ![demo one](demo/demoinit.jpg)
 ![demo two](demo/demotwo.jpg)
 ![demo three](demo/demothree.jpg)
