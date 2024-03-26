@@ -1,4 +1,4 @@
-# avetol
+# Flutter Movies UI
 
 # Flutter Movies demo app UI
 ![demo one](demo/demoinit.jpg)
