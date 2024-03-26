@@ -1,0 +1,85 @@
+{
+  "movies": [
+
+    {
+      "title": "Prey",
+      "type": "Action / Thriller",
+      "genre": "Action / Thriller",
+      "year": 2024,
+      "season": 0,
+      "image": "assets/movies/prey.jpg"
+    },
+    {
+      "title": "Frida",
+      "type": "Action / Animation / Documentary",
+      "genre": "action",
+      "year": 2024,
+      "season": 0,
+      "image": "assets/movies/frida.jpg"
+    },
+    {
+      "title": "Cult Killer",
+      "type": "Action / Animation / Documentary",
+      "genre": "Action / Adventure / Crime / Drama / Mystery / Thriller",
+      "year": 2024,
+      "season": 1,
+      "image": "assets/movies/cultkiller.jpg"
+    },
+    {
+      "title": "Lover Stalker Killer",
+      "type": "Action / Crime / Documentary",
+      "genre": "Action / Crime / Documentary",
+      "year": 2024,
+      "season": 0,
+      "image": "assets/movies/love_stalker_killer.jpg"
+    },
+    {
+      "title": "MindGamers",
+      "type": "Action / Sci-Fi / Thriller",
+      "genre": "Action / Sci-Fi / Thriller",
+      "year": 2015,
+      "season": 1,
+      "image": "assets/movies/mind_gammers.jpg"
+    },
+    {
+      "title": "Wanted Man",
+      "type": "Action / Thriller",
+      "genre": "action",
+      "year": 2024,
+      "season": 0,
+      "image": "assets/movies/wanted_man.jpg"
+    },
+    {
+      "title": "Lift",
+      "type": "Action / Comedy / Crime / Drama / Thriller",
+      "genre": "Action / Comedy / Crime / Drama / Thriller",
+      "year": 2024,
+      "season": 0,
+      "image": "assets/movies/lift.jpg"
+    },
+    {
+      "title": "Red Right Hand",
+      "type": "Action / Thriller",
+      "genre": "Action / Thriller",
+      "year": 2024,
+      "season": 1,
+      "image": "assets/movies/red_right_hand.jpg"
+    },
+    {
+      "title": "The Beekeeper",
+      "type": "Action / Thriller",
+      "genre": "Action / Thriller",
+      "year": 2024,
+      "season": 1,
+      "image": "assets/movies/medium_cover.jpg"
+    },
+    {
+      "title": "Hot Stuff",
+      "type": "Comedy",
+      "genre": "action comedy",
+      "year": 2023,
+      "season": 1,
+      "image": "assets/movies/hotstuff.jpg"
+    }
+  ]
+}
