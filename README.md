@@ -4,13 +4,13 @@
 ![demo one](demo/demoinit.jpg)
 ![demo two](demo/demotwo.jpg)
 ![demo three](demo/demothree.jpg)
-![demo four](demo/demo.jpg)
+![demo four](demo/demofour.jpg)
 
 
 
 ## Getting Started
 
-This project intended to demonstrate avetol new UI design.
+This project intended to demonstrate simple movies UI you will learn container, linear gradients, providers and logics from this flutter app.
 
 A few resources to get you started if this is your first Flutter project:
 

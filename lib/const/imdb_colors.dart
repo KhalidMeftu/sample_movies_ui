@@ -9,7 +9,7 @@ class ImdbColors{
 }
 
 class ImdbStrings{
-  static const String aplus ="A PLUS";
+  static const String aplus ="MDB PLUS";
   static const String watchNow="Watch Now";
   static const String continueWatching="Continue Watching";
   static const String originals="Originals";

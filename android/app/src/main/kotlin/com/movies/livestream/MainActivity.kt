@@ -1,4 +1,4 @@
-package com.avetol.livestream.avetol
+package com.movies.livestream
 
 import io.flutter.embedding.android.FlutterActivity
 

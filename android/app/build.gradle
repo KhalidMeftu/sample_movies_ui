@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.avetol.livestream.avetol"
+    namespace "com.movies.livestream"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
